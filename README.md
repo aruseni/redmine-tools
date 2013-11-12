@@ -1,4 +1,4 @@
-*Redmine target version creator* allows you to easily split the year into 52 automatically created separate target versions (201401, 201402 and so on).
+**Redmine target version creator** allows you to easily split the year into 52 automatically created separate target versions (201401, 201402 and so on).
 
 Example:
 
@@ -9,7 +9,7 @@ Example:
     Creating version 201407
     Creating version 201408
 
-*Redmine target version shift* allows you to shift each of your tasks one version forward (starting with a given version) which is very useful in case you have tasks for a few versions ahead, but right now the plans has changed and you had to add something new in the current version (instead of the end of the plan) so you need to move everything else one version forward as you don’t want versions that consist of so many tasks that you can barely finish a half of them in time.
+**Redmine target version shift** allows you to shift each of your tasks one version forward (starting with a given version) which is very useful in case you have tasks for a few versions ahead, but right now the plans has changed and you had to add something new in the current version (instead of the end of the plan) so you need to move everything else one version forward as you don’t want versions that consist of so many tasks that you can barely finish a half of them in time.
 
 Example:
 
